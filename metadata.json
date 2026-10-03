@@ -1,0 +1,6 @@
+{
+  "name": "Jewel's Dare",
+  "description": "A private personalized Truth or Dare interactive experience by Jewel for Jannat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
